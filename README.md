@@ -83,3 +83,7 @@ Route to the controller method
 ```
 Route::get('/user/{id}', [UserController::class, 'show'])->name('myadmin.show');
 ```
+
+Helping Links
+https://pusher.com/tutorials/multiple-authentication-guards-laravel/#prerequisites
+https://www.youtube.com/watch?v=AGE3wRKljkw&ab_channel=EnvatoTuts%2B
